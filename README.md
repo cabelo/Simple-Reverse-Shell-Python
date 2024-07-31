@@ -31,14 +31,6 @@ Este projeto implementa uma shell remota que se conecta a um servidor de control
     python remoteshell.py
     ```
 
-### Exemplo de Uso
-
-#### Terminal do Cliente
-![Terminal do Cliente](images/cliente.png)
-
-#### Terminal do Servidor de Controle
-![Terminal do Servidor](images/servidor.png)
-
 ## Segurança
 
 ⚠️ **Aviso**: Este script é para fins educacionais e de teste. Não use em ambientes de produção ou sistemas sem autorização explícita. Usar este script pode ser ilegal em muitos países se utilizado sem permissão.
